@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Rubik&family=Spartan:wght@300&display=swap');
+
+/* if module is not used in the css file then it will be applied to all the files */
+
+.container {
+    margin : 50px 0;
+
+}
+
+/* !important is required as material ui is used. */
+/* so explicit css should be used with important to work */
+.card {
+    margin: 2% 2% !important;
+    background: #1e2227 !important;
+    color: #fff !important;
+    /* border-bottom-left-radius: 30px !important; */
+    border-bottom-right-radius: 50px !important;
+    border-top-left-radius: 50px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+
+}
+
+.headings{
+    text-align: center !important;
+    color: #00adb5 !important;
+    font-size: 30px !important;
+    font-family: "Oxygen", sans-serif !important;
+    border-bottom: 1px solid rgba(255,255,255,1);
+}
+
+.numheadings{
+    font-family: "Rubik", sans-serif;
+    font-size: 30px !important;
+    text-align: center;
+    margin-bottom: 4% !important;
+}
+
+.dateheadings{
+    font-family: "Spartan",sans-serif !important;
+    font-size: 10px !important;
+    color: #fff !important;
+    text-align: center;
+    margin-bottom: 5% !important;
+    padding-bottom: 3% !important;
+    border-bottom: 1px solid rgba(255,255,255,1);
+}
+
+.descriptionheadings{
+    text-align: center !important;
+    color: #00adb5 !important;
+    /* font-size: 10px !important; */
+    font-family: "Rubik", sans-serif !important;
+    font-style: italic;
+}
+
+.infected {
+    border-bottom: 10px solid rgba(0,0,255,0.5);
+    border-top: 10px solid rgba(0,0,255,0.5);
+    
+
+}
+.recovered{
+    border-bottom: 10px solid rgba(0,255,0,0.5);
+    border-top: 10px solid rgba(0,255,0,0.5);
+}
+.deaths{
+    border-bottom: 10px solid rgba(255,0,0,0.5);
+    border-top: 10px solid rgba(255,0,0,0.5);
+}
+
+@media only screen and (max-width: 770px){
+    .card {
+        margin: 2% 0 !important;
+      }
+}

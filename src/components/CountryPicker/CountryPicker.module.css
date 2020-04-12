@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Rubik&family=Spartan:wght@300&display=swap');
+
+.FormControl {
+    width: 20%;
+    margin-bottom: 30px !important;
+    background: rgb(221, 216, 216) !important;
+    border-radius: 10px;
+    padding: 5px 5px 0px 5px !important;
+    font-family: "Spartan", sans-serif;
+}
+
+.txtcolr{
+    color: #ccc !important;
+    background: #fff !important;
+}
