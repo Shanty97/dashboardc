@@ -81,7 +81,7 @@ const Chart = ({ data: {confirmed,recovered,deaths}, country }) => {
 
     );
     //{{}}, one bracket for making code dynamic and one bracket for opening an object
-    console.log(confirmed, recovered, deaths);
+    
     const barChart = (
         
         confirmed
