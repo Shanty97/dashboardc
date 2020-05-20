@@ -19,11 +19,9 @@
 
 ### Screenshots
 
-![Documentation%20cc8e351672b340d4beca819602febdce/1.png](Documentation%20cc8e351672b340d4beca819602febdce/1.png)
+![https://github.com/Shanty97/dashboardc/blob/master/Images/1.png](https://github.com/Shanty97/dashboardc/blob/master/Images/1.png)
 
-![Documentation%20cc8e351672b340d4beca819602febdce/2.png](Documentation%20cc8e351672b340d4beca819602febdce/2.png)
 
-![Documentation%20cc8e351672b340d4beca819602febdce/3.png](Documentation%20cc8e351672b340d4beca819602febdce/3.png)
 
 ### API Used
 
