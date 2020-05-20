@@ -21,6 +21,10 @@
 
 ![https://github.com/Shanty97/dashboardc/blob/master/Images/1.png](https://github.com/Shanty97/dashboardc/blob/master/Images/1.png)
 
+![https://github.com/Shanty97/dashboardc/blob/master/Images/2.png](https://github.com/Shanty97/dashboardc/blob/master/Images/2.png)
+
+![https://github.com/Shanty97/dashboardc/blob/master/Images/3.png](https://github.com/Shanty97/dashboardc/blob/master/Images/3.png)
+
 
 
 ### API Used
