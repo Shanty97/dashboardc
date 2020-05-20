@@ -34,3 +34,4 @@
 ### References
 
 - [https://www.youtube.com/watch?v=mhA11RJMHEM](https://www.youtube.com/watch?v=mhA11RJMHEM)
+- [https://thejavascriptmastery.com/](https://thejavascriptmastery.com/)
